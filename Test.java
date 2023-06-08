@@ -1,4 +1,3 @@
-class main
-{
-    
+class main {
+    // prog
 }
