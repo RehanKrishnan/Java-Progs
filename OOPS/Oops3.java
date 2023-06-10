@@ -16,7 +16,7 @@ public class Oops3 {
     public static void main(String[] args) {
         Vehicle vehicle = new Vehicle();
         Car car = new Car();
-        vehicle.drive();
-        car.drive();
+        vehicle.drive(); // Output: Repairing a vehicle
+        car.drive(); // Output: Repairing a car
     }
 }
